@@ -18,6 +18,7 @@ export default function App() {
       { title: "Event Planner To-Do Lists", desc: "Interactive event management app with task tracking and scheduling features.", link: null },
       { title: "Paper Publication – MAT Journals", desc: "Published a recognized technical research paper on modern computing methodologies.", link: "https://drive.google.com/file/d/1NFyx6086FTQ5HOurf2NxGA7BNJlcAOxp/view?usp=drive_link" },
       { title: "Travel Website UI/UX Prototype", desc: "Figma prototype with clean layout and interactive navigation to showcase destinations.", link: "https://www.figma.com/proto/Y2FKH2WUT0DHUFNWiYRLJ1/Untitled?node-id=0-1&t=H5JDlefHJYAPRBAd-1" },
+      { title: "Roast My CV", desc: "Built an interactive web app that analyzes resumes and gives fun but constructive feedback to help users improve their CV.", link: "https://roastmycv.lovable.app/" },
     ],
     hobbies: ["Writing", "Drawing", "Dancing"],
   };
